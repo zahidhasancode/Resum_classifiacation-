@@ -1,9 +1,6 @@
 # Resume_classifiacation-
-It sounds like you've completed a resume classification project using the SVM model and the Spyder IDE. Now, you'd like to write a README file for your GitHub repository. The README file is important as it provides an overview of your project, its purpose, how to use it, and any other relevant information. Here's a template for your README file:
 
-markdown
-Copy code
-# Resume Classification Project
+
 
 This project focuses on classifying resumes into different categories based on their domains using the Support Vector Machine (SVM) model.
 
