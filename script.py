@@ -37,7 +37,7 @@ def remove_stop_words(text):
             result.append(token)
     return ' '.join(result)
 
-# Vectorizer (Make sure you have this initialized)
+# Vectorizer 
 vectorizer = CountVectorizer()
 
 # Input directory containing resumes to be categorized
